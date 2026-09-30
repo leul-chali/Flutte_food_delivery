@@ -1,5 +1,7 @@
 # Foody — Flutter Food Delivery Application UI
 
+**iDyAy** – A vibrant, premium Flutter UI for food‑delivery apps, showcasing smooth micro‑animations, glass‑morphism design, and fully responsive layouts for mobile, tablet, and web.
+
 ![Flutter Food Delivery Application UI](assets/screenshots/flutter-foody-ui-kit.png)
 
 A modern, responsive, and beautifully designed **Flutter Food Delivery Application UI** created by **[Leul Chali](https://github.com/leul-chali)**. Built with Flutter & Dart, this project showcases a complete end-to-end mobile user experience for online food ordering, browsing, cart management, checkout, and order reviews.
